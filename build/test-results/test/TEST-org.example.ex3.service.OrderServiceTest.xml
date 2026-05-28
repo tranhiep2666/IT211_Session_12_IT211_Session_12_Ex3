@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ex3.service.OrderServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-05-27T12:22:24.689Z" hostname="Window17.local" time="0.624">
+  <properties/>
+  <testcase name="getOrderById_NotFound_ThrowException()" classname="org.example.ex3.service.OrderServiceTest" time="0.6"/>
+  <testcase name="getAllOrders_ReturnNonEmptyList()" classname="org.example.ex3.service.OrderServiceTest" time="0.003"/>
+  <testcase name="addOrder_Success()" classname="org.example.ex3.service.OrderServiceTest" time="0.005"/>
+  <testcase name="updateOrder_Success()" classname="org.example.ex3.service.OrderServiceTest" time="0.002"/>
+  <testcase name="deleteOrder_RemovesElement()" classname="org.example.ex3.service.OrderServiceTest" time="0.002"/>
+  <testcase name="getOrderById_Found()" classname="org.example.ex3.service.OrderServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
